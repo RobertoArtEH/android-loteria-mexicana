@@ -10,7 +10,7 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import java.util.Locale;g
+import java.util.Locale;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
