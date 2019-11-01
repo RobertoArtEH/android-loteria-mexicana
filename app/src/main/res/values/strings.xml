@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Loteria</string>
+    <string name="app_title">LA LOTERIA</string>
+    <string name="default_text">Jugar carta</string>
+    <string name="restart">Volver a jugar</string>
+</resources>
